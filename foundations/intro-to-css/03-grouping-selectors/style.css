@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.button-one {
+    background-color: rgb(230, 144, 230);
+    color: rgb(54, 49, 49);
+}
+
+.button-two {
+    background-color: rgb(63, 146, 146);
+}
+
+.button-font {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}/* Add CSS Styling */
